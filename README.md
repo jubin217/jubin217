@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jubin217
+- 👋 Hi, I’m Jubin T Joseph 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding languages
 - 💞️ I’m looking to collaborate on moding apps
